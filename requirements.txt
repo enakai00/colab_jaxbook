@@ -1,0 +1,4 @@
+flax==0.6.1
+jax==0.3.21
+jaxlib @ https://storage.googleapis.com/jax-releases/cuda11/jaxlib-0.3.15+cuda11.cudnn805-cp37-none-manylinux2014_x86_64.whl
+optax==0.1.3
